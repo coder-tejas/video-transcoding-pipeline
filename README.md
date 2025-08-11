@@ -6,7 +6,7 @@ This project implements a scalable, serverless video transcoding pipeline using 
 
 ## 📌 Architecture
 
-![Architecture Diagram](./a2f11cb2-a2b9-41c4-94a6-decf9bcec762.png)
+![Architecture Diagram](public/a2f11cb2-a2b9-41c4-94a6-decf9bcec762.png)
 
 ### Flow
 
